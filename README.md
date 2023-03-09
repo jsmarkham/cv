@@ -1,2 +1,2 @@
 # cv
-Full Stack from 
+Full Stack Exercises & Refresher 
